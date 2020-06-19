@@ -1,0 +1,7 @@
+c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.csprojAssemblyReference.cache
+c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.csproj.CoreCompileInputs.cache
+c:\users\george\source\repos\PESICSharp\PESICSharp\bin\Debug\PESICSharp.exe.config
+c:\users\george\source\repos\PESICSharp\PESICSharp\bin\Debug\PESICSharp.exe
+c:\users\george\source\repos\PESICSharp\PESICSharp\bin\Debug\PESICSharp.pdb
+c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.exe
+c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.pdb
