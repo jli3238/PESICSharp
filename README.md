@@ -1,8 +1,9 @@
 "# PESICSharp" 
-Exercise 1
+
+Exercise 1: 
 Write 2 functions (each with a different implementation) which accept a string and return a string containing the same characters as the input string -- but in a random order. Compare these implementations and describe why you might prefer one implementation over another (and under what circumstances). One of the implementations should use the System.Random type and its Next(int minValue, int maxValue) overload, while the other implementation isn't constrained to System.Random usage.
 
-Deliverables
+Deliverables: 
 C# source file(s), optionally including a Visual Studio solution and project(s) as you see fit
 A narrative comparing your implementations
 
