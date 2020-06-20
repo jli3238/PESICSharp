@@ -5,3 +5,10 @@ c:\users\george\source\repos\PESICSharp\PESICSharp\bin\Debug\PESICSharp.exe
 c:\users\george\source\repos\PESICSharp\PESICSharp\bin\Debug\PESICSharp.pdb
 c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.exe
 c:\users\george\source\repos\PESICSharp\PESICSharp\obj\Debug\PESICSharp.pdb
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\bin\Debug\PESICSharp.exe.config
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\bin\Debug\PESICSharp.exe
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\bin\Debug\PESICSharp.pdb
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\obj\Debug\PESICSharp.csprojAssemblyReference.cache
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\obj\Debug\PESICSharp.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\obj\Debug\PESICSharp.exe
+C:\Users\George\Documents\GitHub\PESICSharp\PESICSharp\obj\Debug\PESICSharp.pdb
