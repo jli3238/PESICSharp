@@ -15,7 +15,7 @@ How to run/test the application:
 2. Follow the console prompt to enter a string and hit "Enter" on the keyborad to see the two output strings randomized by the two functions.
 
 Comparison of these two implementations: 
-1. RandomizeBySystemRandomFYShuffleCall: It uses the standard Random provided in c# along with the Fisher-Yates Shuffle. The standard RNG is not quite a perfect random and there is evidence that it could be better. The Fisher-Yates Shuffle, however, is optimal in being an efficient uniform shuffle (i.e. all permutations have an equal probability). The time complexity is O(n), assuming random number generating is of O(1).
-2. RandomizeBySystemRandomSortCall: This one also uses Random. It assigns each element in the array with a random element in a toset as a "key". As the key is part of a toset, we sort it to create an alternative order. This is also uniformly random, but the time complexity is O(n log(n)), assuming random number generating is of less than O(log(n)).
+1. RandomizeBySystemRandomFYShuffle: It uses the standard Random provided in c# along with the Fisher-Yates Shuffle. The standard RNG is not quite a perfect random and there is evidence that it could be better. The Fisher-Yates Shuffle, however, is optimal in being an efficient uniform shuffle (i.e. all permutations have an equal probability). The time complexity is O(n), assuming random number generating is of O(1).
+2. RandomizeBySystemRandomSort: This one also uses Random. It assigns each element in the array with a random element in a toset as a "key". As the key is part of a toset, we sort it to create an alternative order. This is also uniformly random, but the time complexity is O(n log(n)), assuming random number generating is of less than O(log(n)).
 
 The comparison of the two implementations have been added below the functions in file "program.cs".
